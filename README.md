@@ -24,7 +24,7 @@ QuickBite is a food delivery mobile application designed to help users browse re
 - UI/UX Design
 
 ## Figma Prototype
-Paste your published Figma link here
+https://jumbo-route-03115377.figma.site/
 
 ## Author
 Radharapu Revanth
