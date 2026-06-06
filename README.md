@@ -1,4 +1,6 @@
-# Mobile-App-Wireframing_UIUX-TASK1
+# Task 1 – Mobile App Wireframing
+QuickBite Mobile App
+
 Food Delivery Mobile App UI/UX Design using Figma
 # QuickBite – Food Delivery App UI/UX Case Study
 
